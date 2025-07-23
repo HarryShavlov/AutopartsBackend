@@ -1,0 +1,6 @@
+@AutopartsBackend.API_HostAddress = http://localhost:5005
+
+GET {{AutopartsBackend.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

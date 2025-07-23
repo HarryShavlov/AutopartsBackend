@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oIEmOaEGPfA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shavl\\AutopartsBackend\\AutopartsBackend.API\\AutopartsBackend.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shavl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\shavl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

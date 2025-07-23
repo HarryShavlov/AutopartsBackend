@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutopartsBackend.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fefbc6e5c0565a1cf864ad24c07a2f58cc1e886")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutopartsBackend.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutopartsBackend.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
